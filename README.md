@@ -11,3 +11,9 @@ You can click the Preview link to take a look at your changes.
 print("merhaba");
 input.and("merhaba"); else
 input add ("hello");
+elif break else
+arda.add.cont("w");
+arda.add.cont("a");
+arda.add.cont("s");
+sjednf.add.cont("d");
+print("merhaba teyip");
